@@ -1,7 +1,7 @@
 title: The Fairy of the Dawn
 book: The Violet Fairy Book
 editor: Andrew Lang
-version: 20130429.1
+version: 20230501.1
 
 > Drawn from *Rumanische Marchen*.
 
