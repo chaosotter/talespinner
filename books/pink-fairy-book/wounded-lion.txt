@@ -1,7 +1,7 @@
 title: The Wounded Lion
 book: The Pink Fairy Book
 editor: Andrew Lang
-version: 20130417.1
+version: 20230501.1
 
 > Drawn from *Cuentos Populars Catalans*, per lo Dr. D. Francisco de
   S. Maspous y Labros. Barcelona, 1885.
